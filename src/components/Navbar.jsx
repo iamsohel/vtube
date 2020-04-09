@@ -11,7 +11,7 @@ const Navbar = () => {
             
             <div className="item">
                 <div className="ui ">
-                    <a href="https://github.com/iamsohel" target="_blank"><i className="github icon" style={{color:'black'}}></i></a>
+                    <a href="https://github.com/iamsohel/vtube" target="_blank"><i className="github icon" style={{color:'black'}}></i></a>
                 </div>
             </div>
             <div className="item">
