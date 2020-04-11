@@ -1,5 +1,14 @@
 
 
+# Vtube
+Video search application built with the following technologies:
+* [React](https://facebook.github.io/react/)
+* [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+* [React Context](https://reactjs.org/docs/context.html)
+* [semantic ui](https://semantic-ui.com/)
+* [youtube api](https://console.developers.google.com)
+
+
 Demo app is deployed on Heroku. Please check it out: https://vtub.herokuapp.com
 
 
